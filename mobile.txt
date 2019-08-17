@@ -4,4 +4,4 @@
 ! filters
 ! xhamster.com#$#abort-on-property-read initials.pop
 
-xhamster.com#$#abort-on-property-read initials
+xhamster.com#$#abort-on-property-read window.initials
