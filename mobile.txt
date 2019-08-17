@@ -3,6 +3,3 @@
 ! Expires: 1 hours (update frequency)
 ! filters
 xhamster.com#$#abort-on-property-read initials.pop
-xhamster.com#$#abort-on-property-read initials.urls.backUrl
-
-! xhamster.com#$#abort-on-property-read , pop
