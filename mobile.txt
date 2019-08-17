@@ -1,0 +1,5 @@
+[Adblock Plus 3.1]
+! Title: Mobile filters Test
+! Expires: 1 hours (update frequency)
+! filters
+xhamster.com#$#abort-on-property-read initials.pop
